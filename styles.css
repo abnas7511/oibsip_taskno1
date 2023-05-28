@@ -115,7 +115,7 @@ footer p{
     margin-top: 20px;
   }
 
-@media (max-width:800px) {
+@media (max-width:1250px) {
 
     .logo{
         height: 150px;
